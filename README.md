@@ -32,11 +32,18 @@ The **Stock Price Prediction System** is a Flask-based application that predicts
 ### 5. **API Endpoints**
 The application exposes the following RESTful API endpoints:
 ---
+*Processed Data*
 ![Data](./assets/Screenshot%202025-01-18%20221615.png)
 ---
-![](./assets/Screenshot_2025-01-18_221615.png)
+
+*Predicted Crude Oil price*
+![](./assets/Screenshot%202025-01-19%20102508.png)
 ---
+
+*Raw data from Yahoo Finance*
 ![](./assets/Screenshot%202025-01-19%20110458.png)
 ---
+
+*Crude Oil Related News Sentiment Analysis*
 ![](./assets/Screenshot%202025-01-21%20004020.png)
 ---
